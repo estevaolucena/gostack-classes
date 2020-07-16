@@ -14,6 +14,10 @@ This project was developed with the following technologies:
 - Yarn
 - Docker
 
+### Web example:
+![](.github/Home.png)
+![](.github/Details.png)
+
 ## :runner: Running
 
 ```bash
